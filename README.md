@@ -7,3 +7,4 @@
 1. roblox server ip grabber 
 2. catalog limited sniper (attemts to buy any limited under a set price)
 3. RBXflip jackpot sniper (old)
+4. Backdoor finder (scans games for backdoors)
