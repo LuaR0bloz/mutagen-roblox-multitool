@@ -1,7 +1,7 @@
 # mutagen-roblox-multitool
-A simple yet powerful tool for roblox.
-please use a alt account to prevent bans
-any questions contact me at keirakitten17#5070
+1. A simple yet powerful tool for roblox.
+2. please use a alt account to prevent bans
+3. any questions contact me at keirakitten17#5070 on discord
 
 # this tool includes
 1. roblox server ip grabber 
